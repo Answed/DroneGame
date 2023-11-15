@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Projects\\DroneGame\\Source\\DroneGame\\DroneGame.Build.cs",
+		"C:\\Projects\\DroneGame\\Source\\DroneGame.Target.cs",
+		"C:\\Projects\\DroneGame\\Source\\DroneGameEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
